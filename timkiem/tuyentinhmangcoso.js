@@ -10,4 +10,4 @@ const linearSearch = (x) => {
   console.log(`k tim thay ${x}`);
   return -1;
 };
-linearSearch(90);
+linearSearch(9);
